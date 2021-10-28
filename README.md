@@ -1,7 +1,8 @@
-# EJS-digitalocean-tutorial-rjosh5
--Created Webapp using EJS with node.js
--This project consists Home , about pages in webapp
--Learned how to use node envirnoment for javascript
+# EJS-digitalocean-tutorial-
+
+- Created Webapp using EJS with node.js
+- This project consists Home , about pages in webapp
+- Learned how to use node envirnoment for javascript
 
 ## Author
 - [Riddhi Joshi] (https://github.com/RiddJoshi)
